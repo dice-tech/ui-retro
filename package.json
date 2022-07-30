@@ -1,0 +1,26 @@
+{
+  "name": "ui-retro",
+  "version": "1.0.0",
+  "description": "Ui Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dice-tech/ui-retro.git"
+  },
+  "author": "Lakshay Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dice-tech/ui-retro/issues"
+  },
+  "homepage": "https://github.com/dice-tech/ui-retro#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-hot-toast": "^2.3.0"
+  }
+}
