@@ -1,6 +1,7 @@
 import Button from "./Button";
-
+import Caraousel from "./Carousel";
+import Theme from "./Theme";
 
 export {
-	Button
+	Button,Caraousel,Theme
 }
