@@ -1,10 +1,10 @@
 {
   "name": "ui-retro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ui Library",
   "main": "index.js",
   "scripts": {
-    "run": "git add . && git commit -m \"Automated Commit\" && git push"
+    "push": "git add . && git commit -m \"Automated Commit\" && git push"
   },
   "repository": {
     "type": "git",
